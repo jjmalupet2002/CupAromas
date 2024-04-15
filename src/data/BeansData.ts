@@ -11,7 +11,7 @@ const BeansData = [
     prices: [
       {size: '250gm', price: '350', currency: '₱'},
       {size: '500gm', price: '750', currency: '₱'},
-      {size: '1Kg', price: '1070', currency: '₱'},
+      {size: '1Kg', price: '980', currency: '₱'},
     ],
     average_rating: 4.7,
     ratings_count: '6,879',
@@ -31,7 +31,7 @@ const BeansData = [
     prices: [
       {size: '250gm', price: '350', currency: '₱'},
       {size: '500gm', price: '750', currency: '₱'},
-      {size: '1Kg', price: '1070', currency: '₱'},
+      {size: '1Kg', price: '890', currency: '₱'},
     ],
     average_rating: 4.7,
     ratings_count: '6,879',
@@ -51,7 +51,7 @@ const BeansData = [
     prices: [
       {size: '250gm', price: '350', currency: '₱'},
       {size: '500gm', price: '750', currency: '₱'},
-      {size: '1Kg', price: '1070', currency: '₱'},
+      {size: '1Kg', price: '1299', currency: '₱'},
     ],
     average_rating: 4.7,
     ratings_count: '6,879',
@@ -71,7 +71,7 @@ const BeansData = [
     prices: [
       {size: '250gm', price: '350', currency: '₱'},
       {size: '500gm', price: '750', currency: '₱'},
-      {size: '1Kg', price: '1070', currency: '₱'},
+      {size: '1Kg', price: '1199', currency: '₱'},
     ],
     average_rating: 4.7,
     ratings_count: '6,879',

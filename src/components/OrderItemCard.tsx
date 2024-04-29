@@ -42,7 +42,7 @@ const OrderItemCard: React.FC<OrderItemCardProps> = ({
         </View>
         <View>
           <Text style={styles.CardCurrency}>
-            $ <Text style={styles.CardPrice}>{ItemPrice}</Text>
+            ₱ <Text style={styles.CardPrice}>{ItemPrice}</Text>
           </Text>
         </View>
       </View>
@@ -74,7 +74,7 @@ const OrderItemCard: React.FC<OrderItemCardProps> = ({
               X <Text style={styles.Price}>{data.quantity}</Text>
             </Text>
             <Text style={styles.CardQuantityPriceText}>
-              $ {(data.quantity * data.price).toFixed(2).toString()}
+              ₱ {(data.quantity * data.price).toFixed(2).toString()}
             </Text>
           </View>
         </View>
